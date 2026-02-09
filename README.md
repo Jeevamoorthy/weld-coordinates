@@ -1,5 +1,7 @@
 MetalVision-Coordinate-Suite 🛠️📐
 A specialized computer vision toolkit for detecting edges, corners, lines, and physical dimensions on metal surfaces. This suite is designed to handle the challenges of monochromatic (single-color) materials and reflective surfaces common in industrial environments.
+
+
 ![analyzed_2](https://github.com/user-attachments/assets/317f7530-d5a7-431a-a3a6-64e71c0748ec)
 
 
